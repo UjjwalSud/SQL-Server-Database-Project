@@ -111,3 +111,21 @@ To obtain the `sqlpackage.exe` tool, follow these steps:
 3. Click on the provided link to start the download process.
 
 By following these steps, you can easily acquire the `sqlpackage.exe` tool and proceed with configuring automatic publishing for your SQL Server Database Project.
+
+## Downloading Northwind database
+
+To obtain the `Northwind` database, follow these steps:
+
+1. Visit the [Microsoft SQL Server Samples GitHub repository](https://github.com/Microsoft/sql-server-samples).
+
+2. Navigate to the "databases" folder.
+
+3. Look for the "northwind-pubs" folder.
+
+4. Click on the "northwind-pubs.bak" file.
+
+5. On the file page, click the "Download" button.
+
+6. Once downloaded, you can restore the database using Microsoft SQL Server Management Studio (SSMS) or any other SQL Server tools.
+
+Note: Make sure you have a compatible version of SQL Server installed to restore and use the Northwind database.
